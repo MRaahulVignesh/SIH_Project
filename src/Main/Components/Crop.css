@@ -1,0 +1,86 @@
+#main{
+    overflow: hidden;
+}
+#crop{
+    display: inline-block;
+    height: 100vh;
+    width: 91.25vw;
+    background-image: linear-gradient(#FFF781,#FED72C);
+    padding: 10%;
+    overflow: hidden;
+}
+#crops{
+    height: 50vh;
+    width: 75vw;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+#cropItems{
+    height: 50vh;
+    width: 75vw;
+    margin-bottom: 10vh;
+}
+.cropItem1{
+    margin-left: 5vw;
+    float: left;
+    height: 50vh;
+    width: 18vw;
+    background-image: url(wheatcrop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: black;
+    border-width: 0.5vh;
+    border-style: solid;
+    position: relative;
+}
+.itemName{
+    visibility: hidden;
+}
+.cropItem1:hover .itemName{
+    visibility: visible;
+    font-size: 3vw;
+    font: bold;
+    color: black;
+    text-align: center;
+}
+.cropItem2{
+    margin-right: 5vw;
+    float: right;
+    height: 50vh;
+    width: 18vw;
+    background-image: url(wheatcrop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: black;
+    border-width: 0.5vh;
+    border-style: solid;
+    position: relative;
+}
+.cropItem2:hover .itemName{
+    visibility: visible;
+    font-size: 3vw;
+    font: bold;
+    color: black;
+    text-align: center;
+}
+.buy{
+    display: inline-block;
+    margin: 1vh;
+    position: absolute;
+    bottom: 0vh;
+    left: 0.5vw;
+    color:white;
+    font: bold;
+    font-size: 1.5vw;
+}
+
+.details{
+    display: inline-block;
+    margin: 1vh;
+    position: absolute;
+    bottom: 0vh;
+    right: 0.5vw;
+    color:white;
+    font: bold;
+    font-size: 1.5vw;
+}

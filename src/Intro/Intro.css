@@ -1,0 +1,10 @@
+#intro{
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(#DCC0B9,#AAA9C5);
+    overflow:hidden
+}
+@font-face{
+    font-family: newFont;
+    src: url(MomcakeBold-WyonA.otf)
+}

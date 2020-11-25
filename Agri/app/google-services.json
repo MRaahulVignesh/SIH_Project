@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "243738732622",
+    "firebase_url": "https://agri-b9eb7.firebaseio.com",
+    "project_id": "agri-b9eb7",
+    "storage_bucket": "agri-b9eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243738732622:android:26eb10e2134d1630a5bb1f",
+        "android_client_info": {
+          "package_name": "com.example.agri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243738732622-iupnelu0av9iktbfhvhvktt1vneakc2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agri",
+            "certificate_hash": "85dc84b115436900a8383e9f58a19ecd4b4fbda2"
+          }
+        },
+        {
+          "client_id": "243738732622-fu1p5vbc9mcsq1l17bckvp9t9jah0i70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agri",
+            "certificate_hash": "1e1d67e2f00831b2419bc1f8a05d77ba041ad512"
+          }
+        },
+        {
+          "client_id": "243738732622-uqqr99vrlg5s4h64iflniddrq9ttiu1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS5VZPzjo-hur6PovmDRpLhU0Dk8YtD1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243738732622-uqqr99vrlg5s4h64iflniddrq9ttiu1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
